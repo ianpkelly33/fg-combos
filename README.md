@@ -1,5 +1,16 @@
-## Next.js App Router Course - Starter
+## My Personal Fighting Game Combos & Character Notes
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+# \app\ page:
+buttons on top of page persisting on every page
+(wip): Game List | Char Wiki | Resources | Notation Help | Collapse All(?)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+# \app\home page:
+Game List
+
+# \app\<game> page:
+opens combo page with sticky navbar
+navbar first row: column-wide thin Location (i.e. Mid-Screen, Corner)
+    second row: Condition | Notation | Damage | Notes(?)
+
+# To-do:
+make to-do list lol
